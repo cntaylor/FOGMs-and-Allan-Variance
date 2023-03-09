@@ -1,7 +1,6 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# FOGM in Allan Variance
+This notebook is a way to find out some information about how FOGM (First Order Gauss Markov) noise is represented in an Allan Variance chart. 
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+(This Overleaf link)[] has the derivations for the functions used in the Python Notebook.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+(This Notebook)[notebooks/AllanVariance-FOGM.ipynb] is where we are trying things out and is the point of this github CodeSpaces.
